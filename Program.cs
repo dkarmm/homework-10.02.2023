@@ -1,7 +1,7 @@
-﻿int a = 5;
-int b = 25;
+﻿int a = 25;
+int b = 5;
 
-if (a * a == b)
+if (b * b == a)
 {
     Console.WriteLine("Да.");
 }
