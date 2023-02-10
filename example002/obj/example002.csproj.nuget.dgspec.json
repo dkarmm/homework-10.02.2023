@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dkarmm/less2/less2.csproj": {}
+    "/home/dkarmm/less2/example002/example002.csproj": {}
   },
   "projects": {
-    "/home/dkarmm/less2/less2.csproj": {
+    "/home/dkarmm/less2/example002/example002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dkarmm/less2/less2.csproj",
-        "projectName": "less2",
-        "projectPath": "/home/dkarmm/less2/less2.csproj",
+        "projectUniqueName": "/home/dkarmm/less2/example002/example002.csproj",
+        "projectName": "example002",
+        "projectPath": "/home/dkarmm/less2/example002/example002.csproj",
         "packagesPath": "/home/dkarmm/.nuget/packages/",
-        "outputPath": "/home/dkarmm/less2/obj/",
+        "outputPath": "/home/dkarmm/less2/example002/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dkarmm/.nuget/NuGet/NuGet.Config"
